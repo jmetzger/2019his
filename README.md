@@ -1,4 +1,6 @@
-# eGit - Training HIS Hannover 12/2019
+# eGit - Training HIS Hannover 08.12. - 09.12.2019
+
+Trainer: Jochen Metzger 
 
 ## Settings in Eclipse 2019.09 vor a great presentation (Big Icons) 
 
@@ -9,7 +11,6 @@ Do this in the .eclipse.ini
 -Dswt.autoScale=200
 -Dswt.autoScale.method=nearest
 ```
-
 What does swt mean ?
 
 SWT = The Standard Widget Toolkit 
