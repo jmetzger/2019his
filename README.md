@@ -2,6 +2,10 @@
 
 Trainer: Jochen Metzger 
 
+## PDFS for eclipse git 
+
+http://schulung.t3isp.de/dokumente/pdfs/git/git-eclipse.pdf
+
 ## Settings in Eclipse 2019.09 vor a great presentation (Big Icons) 
 
 Do this in the .eclipse.ini 
